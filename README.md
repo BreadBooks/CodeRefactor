@@ -1,2 +1,2 @@
-# CodeRefactorHw1
-redooops
+# CodeRefactor Homework
+## Refactoring of Code 
